@@ -1,2 +1,3 @@
 Creating 0x03_git directory
-Editing the Readme file
+
+***Editing the Readme file***
